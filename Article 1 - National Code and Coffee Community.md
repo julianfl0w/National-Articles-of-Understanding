@@ -8,24 +8,27 @@ This Article of Understanding aims to minimally formalize the goals of National 
 ## Principles
 Code and Coffee Community holds to the following set of principles with how we operate.  
 
-* **Minimal Formality**:  
+- **Minimal Formality**:  
 The goal of Code and Coffee Community is to create Local Communities that individuals feel personally connected too. While we help our community members in achieving their personal goals like improving their skill sets and getting a job, our main purpose is creating interpersonal connections. We recognize that overly formal structures are inately antagonistic to the personal relationships that we aim to create. At the same time we realize that no formal structures whatsoever can make it difficult to maintain communities over long periods of time due to burnout that comes to the uneven distribution of effort. As such we aim to minimize the amount of formality with our processes to just what is neccesary to avoid the negative effects of a lack of formality. Instead decisions should be made though public discussions and consensus.
 
-* **Local Autonomy**:  
+- **Local Autonomy**:  
 Our main goal is to create personal communities. The kind of place where folks know your name and support you in your life goals. These kinds of communities can only develop if local organizers and leaders have a sense of ownership over how their community are run and structured. National Code and Coffee Community should respect Local Autonomy to its maximal degree. Local Communities should always be given the option to opt out of National programs an1d plans when so far it is possible and practical. National Code and Coffee Community may give reccomendations to Local Communities on how they are structured, but they may not require Local Communities to be structured in any particular way. 
 
 ## Local Community Expectations
 
-* **Intro Circle**:  
+- **Intro Circle**:  
 All Local Communities should start all meetups with an intro circle. All attendees should be given the oppertunity to introduce themselves to the community. The Local Community has full discretion on how this is performed, the kinds of questions asked, and the length of time an intro is given. This is the sole unifying ritual that all Code and Coffee Local Communities perform. This helps start conversations while encouraging everyone to be personal.
 
-* **Regular Predictable Meetings**:  
+- **Regular Predictable Meetups**:  
 Strong communities need both time and space to grow. Local Communities should aim to meet at regular intervals, monthly or bi weekly, at predictable times in predictable places. This predictability and cadence creates confidence in the commuinty members that the community is worth investing emotional energy into. This also allows regular attendees the time to be able to get to know each other quicker.
 
-* **In Person Meetings**:  
+- **In Person Meetups**:  
 Code and Coffee aims to be a place for folks to connect authenticically away from the digital space. Events should be primarily in person focused. This allows for more genuine connection between the community members compared to less personal digital spaces.
 
-* **Don't be a Jerk**:  
+- **No Cost**:  
+Code and Coffee aims to be inclusive of individuals from all backgrounds. Each Local Community's regular meetups should have no cost to attend. Other events that the Local Community holds may have a cost associated with it, but the costs should only be used to offset the costs of hosting the event and should be kept as minimal as feasible. There should also be no membership fees or dues for being a community member in Code and Coffee.
+
+- **Don't be a Jerk**:  
 Just don't be a jerk. Organizers, community members, and anyone interacting with or in Code and Coffee should refrain from being a jerk. The Local Community should aim to be safe to all attendees regardless of background. This includes the amount of technical experience as well as personal traits like gender, gender expression, sexual orientation, race, national origin, if they like pineapple pizza, or any others. There should be an expectation of a respect of others opinions and backgrounds. Requests to change topics of conversation should always be respected.
 
 ## National Structure
