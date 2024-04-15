@@ -1,15 +1,14 @@
 # Article of Understanding 1 - National Code and Coffee Community
 
 ## Purpose 
-Code and Coffee Community is a minimally formal national organization that aims to create in person communities centered around software development across the United States. Our aim is to help individuals feel more connected by creating by creating oppertunities for folks to connect over a common facination.
+Code and Coffee Community is a national organization that aims to create in-person communities centered around software development.
 
-This Article of Understanding aims to minimally formalize the goals of National Code and Coffee Community and outline the relationship between national and Local Communities.
+This Article of Understanding serves to formalize the goals of National Code and Coffee Community and outlines the relationship between itself and the Local Communities.
 
 ## Principles
-Code and Coffee Community holds to the following set of principles with how we operate.  
 
 - **Minimal Formality**:  
-The goal of Code and Coffee Community is to create Local Communities that individuals feel personally connected too. While we help our community members in achieving their personal goals like improving their skill sets and getting a job, our main purpose is creating interpersonal connections. We recognize that overly formal structures are inately antagonistic to the personal relationships that we aim to create. At the same time we realize that no formal structures whatsoever can make it difficult to maintain communities over long periods of time due to burnout that comes to the uneven distribution of effort. As such we aim to minimize the amount of formality with our processes to just what is neccesary to avoid the negative effects of a lack of formality. Instead decisions should be made though public discussions and consensus.
+The goal of a Local Code and Coffee Community is to create a space that individuals can personally engage and connnect. While we do assist community members in achieving personal goals (i.e. improving one's skill set or finding a job), our main purpose is to foster a space that encourages meaningful interpersonal connection. We recognize that overly formal structures can be antagonistic to developing personal relationships. However, no formal structure often leads to uneven distribution of effort resulting in undue burden on local organizors. Therefore, we aim to minimize formality in all our processes where possible.
 
 - **Local Autonomy**:  
 Our main goal is to create personal communities. The kind of place where folks know your name and support you in your life goals. These kinds of communities can only develop if local organizers and leaders have a sense of ownership over how their community are run and structured. National Code and Coffee Community should respect Local Autonomy to its maximal degree. Local Communities should always be given the option to opt out of National programs an1d plans when so far it is possible and practical. National Code and Coffee Community may give reccomendations to Local Communities on how they are structured, but they may not require Local Communities to be structured in any particular way. 
