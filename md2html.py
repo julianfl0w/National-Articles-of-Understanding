@@ -32,7 +32,7 @@ html_with_css = (html_with_css
                  .replace("REMOTE_URL", remote_url))
 
 # Save the HTML content to a file
-with open('output.html', 'w') as file:
+with open('index.html', 'w') as file:
     file.write(html_with_css)
 
 print(f"Conversion complete! The HTML content is saved in 'output.html'.\nRepo: {repo_name}, Branch: {branch_name}, Commit: {commit_hash}, Remote: {remote_url}")
