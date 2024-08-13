@@ -8,32 +8,32 @@ This Article of Understanding serves to formalize the goals of the National Code
 
 ## Principles
 
-- **Minimal Formality**:  
+### Minimal Formality
 The goal of a Local Code and Coffee meetup is to create a space where individuals can personally engage and connect. While we assist community members in achieving personal goals (i.e. improving one's skill set, finding mentorship, or finding a job), our primary purpose is to facilitate that space that encourages meaningful interpersonal connection. We recognize that overly formal (talk-style) structures can be antagonistic to developing personal relationships. However, no formal structure often leads to uneven distribution of effort, resulting in undue burden on local organizers. Therefore, we aim to minimize formality in all our processes where possible.
 
-- **Local Autonomy**:  
+### Local Autonomy 
 Our main goal is to create personal communities. The kind of place where folks know your name and support you in your life goals. These kinds of communities can only develop if local organizers and leaders have a sense of ownership over how their community are run and structured. The National Code and Coffee Collective should respect Local Autonomy to its maximal degree. Local communities should always be allowed to opt out of national programs and plans when possible and practical. National Code and Coffee Collective may give recommendations to Local Meetup communities on how they are structured, but they may not require Local Meetup communities to be structured in any particular way.
 
 ## General Community Principles
-- **Trust**
-- **Safety**
-- **Belonging**
+### Trust
+### Safety
+### Belonging
 
 ## Local Community Expectations
 
-- **Intro Circle**:  
+### Intro Circle 
 All Local Meetup communities should start all meetups with an intro circle. All attendees should be allowed to introduce themselves to the community. The Local Community has full discretion on how this is performed, the kinds of questions asked, and the length of time an intro is given. This is the sole unifying ritual that all Code and Coffee Local Meetup communities perform. This helps start conversations while encouraging everyone to be personal.
 
-- **Regular Predictable Meetups**:  
+### Regular Predictable Meetups 
 Strong communities need both time and space to grow. Local Meetup communities should aim to meet at regular intervals, monthly or bi-weekly, at predictable times in predictable places. This predictability and cadence create confidence in community members that the community is worth investing emotional energy into. This also allows regular attendees to build trust with each other quicker and organically.
 
-- **In Person Meetups**:  
+### In Person Meetups
 Code and Coffee aims to be a place for folks to connect authentically away from the digital space. Events should be primarily in-person, allowing for a more genuine connection between community members rather than less personal digital spaces.
 
-- **No Cost**:  
+### No Cost 
 Code and Coffee aims to include individuals from all backgrounds. Each Local Community's regular meetups should have no cost to attend. Other events that the Local Community holds may have a cost associated with it, but the costs should only be used to offset the costs of hosting the event and should be kept as minimal as feasible. There should be no membership fees or dues for being a community member in Code and Coffee.
 
-- **Don't be a Jerk**:  
+### Don't be a Jerk  
 Just don't be a jerk. Organizers, community members, and anyone interacting with or in Code and Coffee should refrain from being jerks. The Local Community should aim to be safe for all attendees regardless of background. This includes technical experience and personal traits like gender, gender expression, sexual orientation, race, national origin, etc. There should be an expectation of respect for others' opinions and backgrounds. Requests to change topics of conversation should always be respected.
 
 ## National Structure
