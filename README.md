@@ -40,7 +40,7 @@ Just don't be a jerk. Organizers, community members, and anyone interacting with
 Following our principle of Minimal Formality, the National Code and Coffee Collective strives to follow minimal structure. The main aim of National Code and Coffee Collective is to help new Local Meetup Communities get started and assist existing Local Meetup Communities to help their communities thrive. Ideally, Local Meetup communities should only be worried about taking care of their communities while National takes care of things that the Local Meetup communities would rather not handle. This reduces the friction of starting new Local Meetup communities and the operation burden for existing chapters. We can gain advantages by banding together many meetups communities across the country. National aims to utilize this banding effect to help all the communities. So long as a meetup remains affiliated with the National Code and Coffee Collective, they may benefit from the associated organization as indicated below.
 
 ### National Benefits
-* **Covering Meetup.com (or equivilant)**:  
+* **Covering Meetup.com (or equivalent)**:  
 National aims to cover the cost of each Local Community's Meetup.com or equivalent event management service. By combining many Local Meetup Communities, National can ensure the best rate.
 
 * **Discord**:  
@@ -72,7 +72,7 @@ Following the principle of minimal formality, the National Code and Coffee Colle
 
 Articles of Understanding are inspired by the W3C recommendation process.
 
-All the Articles of Understanding are held in a publically accessible repository. Any community member in Code and Coffee may recommend adding, removing, or changing things in the articles of understanding. These change recommendations will be called a Request For Comment (RFC). Any member of the community may make their opinion heard on the recommendation, and recommendations should only be adopted when there is near consensus.
+All the Articles of Understanding are held in a publicly accessible repository. Any community member in Code and Coffee may recommend adding, removing, or changing things in the articles of understanding. These change recommendations will be called a Request For Comment (RFC). Any member of the community may make their opinion heard on the recommendation, and recommendations should only be adopted when there is near consensus.
 
 This is the change process for the articles:
 
@@ -83,7 +83,7 @@ This is the change process for the articles:
 
 3) The RFC should be made available for comment for a fair period of time, at least 1 week.
 
-4) The RFC can only be accepted if there are no current conversations being had and that general consensus has been reached. Community members may accept or reject the RFC to show their approval or disapproval of the RFC. Community members that disapprove must make their disapproval clear and must be engaged in the discussion if their disapproval is contingent on a part of the RFC instead of the core idea of the RFC. Community members that disapprove who do not make their perspective clear may be overlooked. If consensus of the community members cannot be reached, a 2/3 consensus of the Local Communities, where each Local Communites has a single opinion, may be used in replacement. Local Communities abstain by default if they do not let themselves be heard. Each Local Community may choose their own method of deciding their Local Community's opinion. The default process is a simple majority opinion of all the members participating in the RFC conversation.
+4) The RFC can only be accepted if there are no current conversations being had and that general consensus has been reached. Community members may accept or reject the RFC to show their approval or disapproval of the RFC. Community members that disapprove must make their disapproval clear and must be engaged in the discussion if their disapproval is contingent on a part of the RFC instead of the core idea of the RFC. Community members that disapprove who do not make their perspective clear may be overlooked. If consensus of the community members cannot be reached, a 2/3 consensus of the Local Communities, where each Local Communities has a single opinion, may be used in replacement. Local Communities abstain by default if they do not let themselves be heard. Each Local Community may choose their own method of deciding their Local Community's opinion. The default process is a simple majority opinion of all the members participating in the RFC conversation.
 
 5) Once the RFC has been accepted, it will be merged into the main branch.
 
@@ -92,16 +92,16 @@ This is the change process for the articles:
 ## Purpose
 There are a number of costs that are associated with running Code and Coffee, both at the Local Community level and the National level. Some of these costs include but are not limited too:
 
-1) Meetup.com
+1) Meetup.com  
 2) Discord Boosts  
 3) Notion  
 4) Complimentary Organizer T-Shirts  
 5) Stickers and Misc Swag  
 6) Coffee and Coffee Machines  
-7) Website hosting
-8) Venues
+7) Website hosting  
+8) Venues  
 
-To make Code and Coffee accessible to all, we do not want these costs borne directly by our community members. Instead, we want to manage these costs by having organizations sponor us, covering our costs, for reasonable access to our community. By banding together at a National level we have the oppertunity to create larger and more impactful sponsorships than if we had each individual Local Community create their own sponsorships. We however want to respect our Local Autonomy principle and not force any Local Community into any action that may come out of these National Level Sponsorships.
+To make Code and Coffee accessible to all, we do not want these costs borne directly by our community members. Instead, we want to manage these costs by having organizations sponsor us, covering our costs, for reasonable access to our community. By banding together at a National level we have the opportunity to create larger and more impactful sponsorships than if we had each individual Local Community create their own sponsorships. We however want to respect our Local Autonomy principle and not force any Local Community into any action that may come out of these National Level Sponsorships.
 
 ## Financial Control Structure
 Each Local Community retains the right to raise their own sponsorships and control what happens to funds raised by these sponsorships. National may not require any Local Community to use their funds for any purpose that the Local Community does not deem fit. This principle stands even if the Local Community is being fiscally hosted with National Code and Coffee.  
@@ -109,16 +109,16 @@ Each Local Community retains the right to raise their own sponsorships and contr
 National covers the cost of National level expenses either by rasing National Level Sponsorships or through the voluntary contributions of Local Communities. National Level Sponsorships may not require the action of any Local Community and instead must be brokered with the Local Communities if they require the Local Communities to do any action.
 
 ## National Sponsorship Program
-The National Sponsorship Program makes it easier for National to create large scale National Sponsorships while respecting the Local Autonomy principle. This is particularly helpfull to either newer communities or communities in more rural settings that might otherwise struggle to get sponsorships on their own. 
+The National Sponsorship Program makes it easier for National to create large scale National Sponsorships while respecting the Local Autonomy principle. This is particularly helpful to either newer communities or communities in more rural settings that might otherwise struggle to get sponsorships on their own. 
 
-### Joining the Progam
+### Joining the Program
 National will create a sign up sheet where Local Communities may sign up to the program. Local Communities that sign up to the program will have additional expectations above the standard expectations, in exchange will gain access to additional funds. Local Communities may not be compelled into the program and National aims to cover all the basic expenses of Local Communities regardless if they are in the program or not.
 
 ### Leaving the Program
-Local Communities may leave the program at any time, but must fulfil any agreements brokered by National before leaving. For example, if National promised a Sponsor some actions from a particular Local Community for one year, the Local Community may leave the program but must fulfil the agreement. This prevents the degredation of the National brand which could hurt our ability to make sponsorships in the future.
+Local Communities may leave the program at any time, but must fulfil any agreements brokered by National before leaving. For example, if National promised a Sponsor some actions from a particular Local Community for one year, the Local Community may leave the program but must fulfil the agreement. This prevents the degradation of the National brand which could hurt our ability to make sponsorships in the future.
 
 ### Expectations
-All Local Communities in the program agree to allow National to acquire Sponsorships on their behalf. The Local Communities must fulfill the actions required by these sponsorships. National may only compell the following actions.
+All Local Communities in the program agree to allow National to acquire Sponsorships on their behalf. The Local Communities must fulfill the actions required by these sponsorships. National may only compel the following actions.
 
 - **Event Brand Placement**:  
 A sponsor may request to place an icon onto the graphic associated with the Local Community's events.
