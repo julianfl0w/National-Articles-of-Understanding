@@ -1,0 +1,26 @@
+body.light-mode{
+    display: flex;
+    justify-content: center;
+    margin: 0;  
+    font-family: 'Noto Sans', sans-serif;
+    padding: 20px;
+    background-color: #ffffff; /* Default light mode background */
+    color: #000000; /* Default light mode text color */
+}
+
+/* Headings with specific colors */
+body.light-mode h1 {
+    color: black; /* Black color for h1 */
+}
+
+body.light-mode h2 {
+    color: blue; /* Blue color for h2 */
+}
+
+body.light-mode h3 {
+    color: red; /* Red color for h3 */
+}
+
+body.light-mode h4 {
+    color: purple; /* Purple color for h4 */
+}

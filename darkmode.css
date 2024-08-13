@@ -1,0 +1,25 @@
+body.dark-mode {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 20px; /* Unified padding declaration */
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #121212; /* Default dark mode background */
+    color: #e0e0e0; /* Default dark mode text color */
+}
+
+body.dark-mode h1 {
+    color: white; /* White color for h1 in dark mode */
+}
+
+body.dark-mode h2 {
+    color: #87CEEB; /* Light blue color for h2 in dark mode */
+}
+
+body.dark-mode h3 {
+    color: rgb(255, 74, 74); /* Red color for h3 in dark mode */
+}
+
+body.dark-mode h4 {
+    color: rgb(255, 103, 255); /* Purple color for h4 in dark mode */
+}
