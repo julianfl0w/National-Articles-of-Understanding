@@ -1,8 +1,9 @@
-
-.container {
-    width: 90%; /* Default width */
+.main {
+    width: 90%;
+    /* Default width */
     margin: auto;
-    line-height: 1.5; /* Double-space the text */
+    line-height: 1.5;
+    /* Double-space the text */
 }
 
 
@@ -23,53 +24,55 @@
     background-color: #555;
 }
 
-/* Adjust the container width for landscape orientation */
+/* Adjust the main width for landscape orientation */
 @media screen and (orientation: landscape) {
-    .container {
-        width: 50%; /* Apply the 50% width in landscape mode */
+    .main {
+        width: 50%;
+        /* Apply the 50% width in landscape mode */
     }
 }
 
-/* Adjust the container width for landscape orientation */
+/* Adjust the main width for landscape orientation */
 @media screen and (orientation: portrait) {
-    .container {
-        width: 90%; /* Apply the 90% width in 
-        .container {
+    .main {
+        width: 90%;
+        /* Apply the 90% width in 
+        .main {
             width: 90%; /* Default width */
-            margin: auto;
-            line-height: 1.5; /* Double-space the text */
+        margin: auto;
+        line-height: 1.5;
+        /* Double-space the text */
+    }
+
+
+    /* Button styles */
+    #toggle-dark-mode {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        padding: 10px 20px;
+        background-color: #333;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    #toggle-dark-mode:hover {
+        background-color: #555;
+    }
+
+    /* Adjust the main width for landscape orientation */
+    @media screen and (orientation: landscape) {
+        .main {
+            width: 50%;
         }
-        
-        
-        /* Button styles */
-        #toggle-dark-mode {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            padding: 10px 20px;
-            background-color: #333;
-            color: #fff;
-            border: none;
-            cursor: pointer;
-            border-radius: 5px;
+    }
+
+    /* Adjust the main width for portrait orientation */
+    @media screen and (orientation: portrait) {
+        .main {
+            width: 90%;
         }
-        
-        #toggle-dark-mode:hover {
-            background-color: #555;
-        }
-        
-        /* Adjust the container width for landscape orientation */
-        @media screen and (orientation: landscape) {
-            .container {
-                width: 50%; 
-            }
-        }
-        
-        /* Adjust the container width for portrait orientation */
-        @media screen and (orientation: portrait) {
-            .container {
-                width: 90%; 
-            }
-        } 
     }
 }
